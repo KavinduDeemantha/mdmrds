@@ -1,0 +1,30 @@
+text_labels:
+  0: credible
+  1: suspicious
+  2: misleading
+
+verification_status:
+  - confirmed
+  - refuted
+  - unverified_emerging
+
+image_text_labels:
+  - consistent
+  - inconsistent
+  - uncertain
+  - not_applicable
+
+languages:
+  - si
+  - ta
+  - en
+
+disaster_types:
+  - flood
+  - landslide
+  - cyclone
+  - heavy_rain
+  - drought
+  - tsunami
+  - earthquake
+  - other

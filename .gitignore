@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Dataset
+data/raw/
+data/interim/
+data/processed/
+data/annotations/
+
+# Model files
+*.pt
+*.pth
+*.bin
+*.safetensors
+checkpoints/
+models/
+
+# Notebook
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
